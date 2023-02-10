@@ -1,0 +1,26 @@
+GIT:-
+GIT, which stands for Global Information Tracker, is a powerful and widely-used version control system commonly used for software development and other collaborative project. GIT allows multiple developers to work on a project simultaneously while ensuring that their changes do not interfere with one another. It keeps track of all the changes made to the project and allows developers to revert to previous versions if necessary.
+
+Github:-
+Github is an online software development platform and social networking site where developers can connect , collaborate and pitch their work by creating and uploading repositories outside their local servers which can be viewed by other developers . Github encourages people to build a personal profile and brand for themselves .
+
+Difference between Git and Github:-
+The difference between git and github arises in their applications in developing open source softwares . While git is a version control system that is used to create open source files and to track the changes made at every session, github is used to manage these files by providing more functionality andd also provides a cloud server to store and present these files online for public viewing and collaborations . 
+
+5 basic GIT commands:-
+1)add       Add file contents to the index.
+2)mv        Move or rename a file, a directory.
+3)rm        Remove files from the working directory and from the index.
+4)init      Create an empty Git repository or reinitialize an existing one.
+5)commit    Record changes to the repository.
+
+STEPS TO PULL REQUEST IN GITHUB:-
+1.On GitHub.com, navigate to the main page of the repository.
+2.In the "Branch" menu, choose the branch that contains your commits.
+3.Above the list of files, click  Pull request.
+4.Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to 5.choose the topic branch you made your changes in.
+6.Drop-down menus for choosing the base and compare branches
+7.Type a title and description for your pull request.
+8.Pull request title and description fields
+9.To create a pull request that is ready for review, click Create Pull Request.
+10.After your pull request has been reviewed, it can be merged into the repository.
